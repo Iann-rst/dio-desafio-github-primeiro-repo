@@ -12,5 +12,8 @@ Desafio de Projeto sobre Git/GitHub
 ## Comandos Git
 ```bash 
 #Clonar o repositório: 
-$ Git clone https://github.com/Iann-rst/dio-desafio-github-primeiro-repo.git 
+$ git clone https://github.com/Iann-rst/dio-desafio-github-primeiro-repo.git
+
+#Listar quais arquivos foram preparados, despreparados e não foram monitorados:
+$ git status
 ```
